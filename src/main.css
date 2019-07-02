@@ -81,3 +81,23 @@ a {
   width: 60%;
   margin: 0 auto;
 }
+
+.goHomeBtn {
+  border-radius: 20px;
+  background: #0B3C49;
+  color: white;
+  border: none;
+  width: 8%;
+  font-size: 19px;
+  font-family: 'Crimson Text';
+}
+
+.goClassListBtn {
+  border-radius: 20px;
+  background: #0B3C49;
+  color: white;
+  border: none;
+  width: 8%;
+  font-size: 19px;
+  font-family: 'Crimson Text';
+}
